@@ -1,5 +1,5 @@
 <h1 class="heading-element" dir="auto" tabindex="-1">📖MegaCoding(메가 코딩 3인 프로젝트)</h1>
-<h2 class="heading-element" dir="auto" tabindex="-1">💻프로젝트 개요</h2>
+<h2 class="heading-element" dir="auto" tabindex="-1">💻학원 프로젝트 개요</h2>
 <p>지금까지 배웠던 내용들과 mdn, w3scool등 다양한 사이트들을 참조하여 기초를 다시 학습한 뒤, 이를 응용해서 배운 지식들과 내용들을 저장하고 활용할 수 있는 동적인 웹사이트를 구현</p>
 <p>&nbsp;</p>
 <h2 class="heading-element" dir="auto" tabindex="-1">🥽 사용 기술</h2>
